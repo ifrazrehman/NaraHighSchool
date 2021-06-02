@@ -1,2 +1,2 @@
-# Repository to Store the workbooks for Programming Classes.
+#  Programming Classes for high school students
 This is for the Programming Learning
